@@ -20,7 +20,7 @@ html,body {
    color: white;
 }
 
-#refresh-button {
+.refresh-button {
     border: 3px solid white;
 	background-color: white;
 	border-radius: 3px;
